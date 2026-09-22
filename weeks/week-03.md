@@ -12,7 +12,11 @@ permalink: /weeks/week-03/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
-
+![導讀後的工作坊活動]({{ '/assets/images/IMG_2925.jpeg' | relative_url }})
+導讀後的工作坊活動，一直很好奇我們的設計會讓同學們有什麼反應。沒想到大家非常投入且願意分享的完成它。
+![體驗感官、環境的工作坊]({{ '/assets/images/IMG_2926' | relative_url }})
+體驗感官、環境的工作坊，
+![身體和步伐繪製的圖樣]({{ '/assets/images/IMG_2929.jpeg' | relative_url }})
 ## FRICTION｜摩擦
 
 描述一個沒有如預期發生的瞬間。
