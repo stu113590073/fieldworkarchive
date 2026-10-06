@@ -12,6 +12,9 @@ permalink: /weeks/week-05/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![retool1]({{ '/assets/images/IMG_3199.jpeg' | relative_url }})
+![retool2]({{ '/assets/images/IMG_3054.jpeg' | relative_url }})
+![Ph檢測]({{ '/assets/images/IMG_3216.jpeg' | relative_url }})
 
 ## FRICTION｜摩擦
 
