@@ -14,7 +14,7 @@ permalink: /weeks/week-05/
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 ![retool1]({{ '/assets/images/IMG_3199.jpeg' | relative_url }})
 同學的第一個retooling工作坊，用不同的方法使用工具，讓我開始思考紙張、剪刀和筆的不同可能性。其實在同學要求畫愛心和剪紙時，我就一直想用突破框架的方式來達到目的！
-![retool2]({{ '/assets/images/IMG_3054.jpeg' | relative_url }})
+![retool2]({{ '/assets/images/IMG_3201.jpeg' | relative_url }})
 在第二次的retooling時，我們的紙張彎曲了。這是我完全沒有想到的情況。所以在第三次機會時，運用紙張的厚度和彈性來支撐比較有重量的剪刀。
 ![Ph檢測]({{ '/assets/images/IMG_3216.jpeg' | relative_url }})
 PH檢測器讓我覺得非常有趣，一直覺得蝶豆花只是飲品天然調色劑的我，其實覺得老師的工作坊本身也是一種retooling的行動。
