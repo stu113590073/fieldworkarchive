@@ -14,6 +14,12 @@ permalink: /weeks/week-06/
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 ![酵母]({{ '/assets/images/IMG_3380.jpeg' | relative_url }})
 酸種工作坊，剛混合完麵粉和水的樣貌。聞起來像米茶，香香的。
+![起泡後早上餵養（Day3)]({{ '/assets/images/IMG_3499.jpeg' | relative_url }})
+起泡後早上餵養（Day3)
+![Day3晚上，非常讓我震驚！竟然一天就長高了這麼多，我是著聞它的味道，有著更重的發酵味但還不酸。聽它的聲音，有時候有泡泡爆開的清脆聲。]({{ '/assets/images/IMG_3501.jpeg' | relative_url }})
+Day3晚上，非常讓我震驚！竟然一天就長高了這麼多，我是著聞它的味道，有著更重的發酵味但還不酸。聽它的聲音，有時候有泡泡爆開的清脆聲。
+![出現明顯酸味（day6)]({{ '/assets/images/IMG_3532.jpeg' | relative_url }})
+出現明顯酸味（day6)
 ## FRICTION｜摩擦
 
 描述一個沒有如預期發生的瞬間。
