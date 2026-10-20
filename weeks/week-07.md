@@ -30,12 +30,12 @@ permalink: /weeks/week-07/
 
 選擇本週閱讀或課堂案例中的一個概念。它如何改變你對上述瞬間的理解？
 這次的期中練習，我運用了一些文本的知識來思考創作的每一步。
-< Evidential Paradigm> : clues/traces 線索、軌跡\n
-< Situated Knowledge> : 客觀（沒有真正的客觀）\n
-< Verb List> : to erase 擦除、 of friction 摩擦\n
-< Touching vision> : intra- action 觸摸的分開性、個體與個體的連結\n
-< Ontology> : grandfather clock 將物件分析成為最小單位\n
-< Eating as knowing> : Active- engagemen 主動參與\n
+< Evidential Paradigm> : clues/traces 線索、軌跡
+< Situated Knowledge> : 客觀（沒有真正的客觀）
+< Verb List> : to erase 擦除、 of friction 摩擦
+< Touching vision> : intra- action 觸摸的分開性、個體與個體的連結
+< Ontology> : grandfather clock 將物件分析成為最小單位
+< Eating as knowing> : Active- engagemen 主動參與
 ## NEXT MOVE｜下一步
 
 如果把這個發現轉化成工具、介面、規則、身體技術或作品，你下一步會測試什麼？
