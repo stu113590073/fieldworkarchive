@@ -19,7 +19,7 @@ permalink: /weeks/week-08/
 ![期中構想]({{ '/assets/images/IMG_3732.JPG' | relative_url }})
 天然菜瓜布縫製細節
 ![期中構想]({{ '/assets/images/IMG_3734.JPG' | relative_url }})
-旁邊的機縫過程
+觸覺感測器邊邊的機縫過程
 ![期中構想]({{ '/assets/images/IMG_3736.JPG' | relative_url }})
 旁邊的機縫過程
 ![期中構想]({{ '/assets/images/IMG_3739.JPG' | relative_url }})
