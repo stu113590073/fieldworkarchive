@@ -21,7 +21,7 @@ permalink: /weeks/week-08/
 ![期中構想]({{ '/assets/images/IMG_3734.JPG' | relative_url }})
 觸覺感測器邊邊的機縫過程
 ![期中構想]({{ '/assets/images/IMG_3736.JPG' | relative_url }})
-旁邊的機縫過程
+觸覺感測器邊邊的機縫過程
 ![期中構想]({{ '/assets/images/IMG_3739.JPG' | relative_url }})
 縫製完成，總共使用18種材質
 ![期中構想]({{ '/assets/images/IMG_3741.JPG' | relative_url }})
