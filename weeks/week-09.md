@@ -29,9 +29,17 @@ permalink: /weeks/week-09/
 
 ## PROTOTYPE｜原型
 
-放入草圖、結構圖、介面畫面、製作過程及實際測試照片。
-
-若有影片、聲音或互動版本，請附上連結。
+放入草圖、結構圖、介面畫面、製作過程及實際測試照片。若有影片、聲音或互動版本，請附上連結。
+![期中構想]({{ '/assets/images/IMG_3696.JPG' | relative_url }})
+蒐集許多不同材質的材料並裁剪
+![期中構想]({{ '/assets/images/IMG_3697.JPG' | relative_url }})
+發現有許多材質無法用裁縫車縫製，會破裂。改用手縫方式連結他們。
+![期中構想]({{ '/assets/images/IMG_3732.JPG' | relative_url }})
+天然菜瓜布縫製細節
+![期中構想]({{ '/assets/images/IMG_3734.JPG' | relative_url }})
+觸覺感測器邊邊的機縫過程
+![期中構想]({{ '/assets/images/IMG_3739.JPG' | relative_url }})
+縫製完成，總共使用18種材質
 ![retool1]({{ '/assets/images/IMG_3984.jpeg' | relative_url }})
 
 ![retool1]({{ '/assets/images/IMG_3985.jpeg' | relative_url }})
