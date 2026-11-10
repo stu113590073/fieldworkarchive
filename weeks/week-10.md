@@ -24,6 +24,7 @@ permalink: /weeks/week-10/
 
 描述一個沒有如預期發生的瞬間。
 
+老師給我們看的Life after Bob影片，
 
 ## CONNECTION｜連結
 
