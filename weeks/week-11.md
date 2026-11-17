@@ -9,14 +9,20 @@ permalink: /weeks/week-11/
 
 > 請保留具體的現場、材料、語句或身體感受。
 
+時間對我來說是無形的，有千百種能夠表達時間的方式，身體對於當下狀態的變化同時也會對時間的感受有所不同。而自然世界的時間是迷人的，從古至今一直依照自然生態的生理性來主導生物的時間性。
+
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 
 ![clock]({{ '/assets/images/IMG_4356.jpeg' | relative_url }})
-![clock]({{ '/assets/images/IMG_4359.jpeg' | relative_url }})
-![clock]({{ '/assets/images/IMG_4361.jpeg' | relative_url }})
+蒐集與自然有關的材料，時間所代表的是一種對於生命的珍貴性。每一塊石頭都是由時間所累積而成的。
 
+![clock]({{ '/assets/images/IMG_4359.jpeg' | relative_url }})
+沒有秒針的時鐘表面，代表一種不精準性，而秒針在背後的鬧鐘調整位置代表著他的人為與可操控性。時間不一定要一直很精準，有時候可以是生活的一種多出來的享受。
+
+![clock]({{ '/assets/images/IMG_4361.jpeg' | relative_url }})
+石頭鐘歪斜擺放，它的十二點鐘在哪一個方位，端看人們怎麼思考。
 ## FRICTION｜摩擦
 
 描述一個沒有如預期發生的瞬間。
