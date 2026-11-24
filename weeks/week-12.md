@@ -16,6 +16,8 @@ permalink: /weeks/week-12/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 
+![clock]({{ '/assets/images/IMG_4478.jpegg' | relative_url }})
+![clock]({{ '/assets/images/IMG_4479.jpeg' | relative_url }})
 改變時鐘原有的樣貌，時間作為人類計時的方式，是否不應該過度附加在石頭身上呢？秒針滴答滴答的走，而石頭也能用自己的方式計算時間。
 
 
